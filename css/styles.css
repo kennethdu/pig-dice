@@ -1,12 +1,7 @@
-/* .btn1 {
-  vertical-align: middle;
+#rollButton2, #holdButton2  {
+  display: none;
 }
- .btn2 {
-   vertical-align: middle;
- } */
-/* #rollButton2 {
-  margin-right;
+
+h1, #rollStatus {
+  text-align: center;
 }
-#holdButton2 {
-  margin-right;
-} */
